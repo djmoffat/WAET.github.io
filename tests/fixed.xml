@@ -14,19 +14,19 @@
 			<metricenable>elementListenTracker</metricenable>
 		</metric>
 		<interface>
-			<interfaceoption name="fragmentPlayed" type="check"/>
-			<interfaceoption name="fragmentMoved" type="check"/>
+			<!-- <interfaceoption name="fragmentPlayed" type="check"/> -->
+			<!-- <interfaceoption name="fragmentMoved" type="check"/> -->
 			<interfaceoption name="volume" type="show"/>
 			<interfaceoption name="playhead" type="show"/>
-			<interfaceoption name="fragmentFullPlayback" type="check"/>
+			<!-- <interfaceoption name="fragmentFullPlayback" type="check"/> -->
 		</interface>
 	</setup>
 	<page alwaysInclude="false" hostURL="media/Sounds/" id="Melody" label="default" labelStart="" loop="false" minNumberPlays="0" playOne="true" poolSize="0" postSilence="0" preSilence="0" randomiseOrder="true" repeatCount="0" restrictMovement="false" synchronous="false">
 		<commentboxprefix>Comment on track</commentboxprefix>
 		<interface name="coherence">
 			<title>Coherence and Enjoyability</title>
-			<interfaceoption name="fragmentPlayed" type="check"/>
-			<interfaceoption name="fragmentMoved" type="check"/>
+			<!-- <interfaceoption name="fragmentPlayed" type="check"/> -->
+			<!-- <interfaceoption name="fragmentMoved" type="check"/> -->
 			<interfaceoption name="volume" type="show"/>
 			<interfaceoption name="playhead" type="show"/>
 			<scales>
