@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <waet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="test-schema.xsd">
-	<setup crossFade="0" interface="APE" loudness="0" minNumberPlays="1" playOne="true" poolSize="0" postSilence="0" preSilence="0" projectReturn="" randomiseAxisOrder="false" randomiseOrder="false" returnURL="save.php">
+	<setup crossFade="0" interface="APE" loudness="0" minNumberPlays="1" playOne="true" postSilence="0" preSilence="0" randomiseAxisOrder="false" randomiseOrder="false" returnURL="save.php">
 		<exitText>Thank you for completing my test. This was an evaluation of computational ideas of composition and its different approaches. The data you have provided will be used to evaluate the computational compositions to identify a pathway forwards to use computers to aid in composing for musicians. Please direct any queries to: harriet.drury@students.plymouth.ac.uk</exitText>
 		<calibration checkChannels="false" checkFrequencies="false" checkLevels="true"/>
 		<survey location="pre" showBackButton="true">
